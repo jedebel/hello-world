@@ -1,2 +1,2 @@
 # hello-world
-There is nothing quite like coffee and conversation in the morning and with a great person.
+There is nothing quite like coffee and conversation in the morning with a great person.
